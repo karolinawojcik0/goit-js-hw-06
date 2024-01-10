@@ -23,4 +23,3 @@ images.forEach((image) => {
     `<li><img src="${url}" alt="${alt}"></li>`
   );
 });
-galleryElement.classList.add('gallery-flex');
